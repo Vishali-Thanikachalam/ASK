@@ -101,4 +101,3 @@ plt.show()
 
 # Results
 Thus, the ASK and FSK performed using colab
-# Hardware experiment output waveform.
