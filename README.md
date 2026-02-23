@@ -95,8 +95,8 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/55e68cb0-a2ff-4aca-b4b3-024dab7e1b99" />
-<img width="1914" height="1199" alt="image" src="https://github.com/user-attachments/assets/4a4cb7a8-f9f4-44c7-b7f0-29b267f04fb5" />
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/55e68cb0-a2ff-4aca-b4b3-024dab7e1b99" />
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/4a4cb7a8-f9f4-44c7-b7f0-29b267f04fb5" />
 
 
 # Results
