@@ -1,8 +1,9 @@
 # ASK
 # Aim
-Write a simple Python program for the modulation and demodulation of ASK and FSK.
-# Tools required
+To write a Python program for the modulation and demodulation of Amplitude Shift Keying (ASK) and Frequency Shift Keying (FSK), and to observe the corresponding output waveforms.# Tools required
 # Program
+Python IDE
+## ASK Modulation and Demodulation
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -38,7 +39,7 @@ plt.subplot(4,1,4); plt.step(range(len(decoded)), decoded); plt.title("Decoded B
 plt.tight_layout()
 plt.show()
 ```
-
+## FSK Modulation and Demodulation
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -100,4 +101,4 @@ plt.show()
 
 
 # Results
-Thus, the ASK and FSK performed using colab
+Thus, the ASK and FSK modulation and demodulation were successfully implemented using Python
